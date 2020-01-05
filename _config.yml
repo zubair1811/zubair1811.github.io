@@ -20,7 +20,7 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Home"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -69,11 +69,11 @@ author:
 social-network-links:
   rss: true
   email: "m.zubair_islam@outlook.com"
-  facebook: zubair
-  github: daattali
-  twitter: daattali
+  facebook: https://www.facebook.com/zubair4032 
+  github: https://github.com/zubair1811
+  twitter: https://twitter.com/zubair_1811
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/mzubairislam
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
