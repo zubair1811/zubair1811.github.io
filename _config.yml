@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Muhammad Zubair Islam
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "m.zubair_islam@outlook.com"
   facebook: deanattali
   github: daattali
   twitter: daattali
